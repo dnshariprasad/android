@@ -26,6 +26,10 @@
 > Storage
 
 * [Shared Preferences](http://www.tutorialspoint.com/android/android_shared_preferences.htm)
-*
+
 * [Database](https://github.com/dnshariprasad/android-database)
+
+* [Internal/External Storage](http://www.tutorialspoint.com/android/android_internal_storage.htm)
+
+
 
