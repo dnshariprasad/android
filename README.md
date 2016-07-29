@@ -12,10 +12,9 @@
 >[Android References](https://github.com/dnshariprasad/android-references)
 
 ###Examples
-> *[Activity Lifecycle](https://github.com/dnshariprasad/android-activity-lifecycle)
+>[Activity Lifecycle](https://github.com/dnshariprasad/android-activity-lifecycle)
 
-
-*[Explicit Intents](https://github.com/dnshariprasad/android-explicit-intents)
+[Explicit Intents](https://github.com/dnshariprasad/android-explicit-intents)
 
 >[Implicit Intent](https://github.com/dnshariprasad/android-implicit-intent)
 
