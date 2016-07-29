@@ -23,3 +23,7 @@
 
 * [Implicit Intent](https://github.com/dnshariprasad/android-implicit-intent)
 
+> Shared Preferences
+
+* [Shared Preferences](http://www.tutorialspoint.com/android/android_shared_preferences.htm)
+
