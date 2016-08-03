@@ -33,5 +33,5 @@
 
 > Others
 
-* [PubNub + FCM] (https://github.com/dnshariprasad/android-pubnub-fcm)
+* [PubNub] (https://github.com/dnshariprasad/android-pubnub-fcm)
 
