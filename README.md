@@ -49,6 +49,10 @@
 
 * [HttpUrlConnection + GSON](https://github.com/dnshariprasad/android-HttpURLConnectionWithGson)
 
+* [Retrofit ip-api.com](https://github.com/dnshariprasad/android-retrofit-ip-api)
+
+* [Retrofit](https://github.com/dnshariprasad/android-retrofit)
+
 > Others
 
 * [PubNub + FCM] (https://github.com/dnshariprasad/android-pubnub-fcm)
