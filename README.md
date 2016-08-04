@@ -21,6 +21,8 @@
 
 * [Dialogs](https://github.com/dnshariprasad/android-dialogs-and-pickers)
 
+* [Recyclerview](https://github.com/dnshariprasad/android-recyclerview) 
+
 >Intent
 
 * [Explicit Intents](https://github.com/dnshariprasad/android-explicit-intents)
