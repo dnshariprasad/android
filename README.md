@@ -27,6 +27,12 @@
 
 * [Implicit Intent](https://github.com/dnshariprasad/android-implicit-intent)
 
+* [Camera](https://github.com/dnshariprasad/android-camera)
+
+* [Camera](https://github.com/dnshariprasad/android-camera)
+
+* [Gallery](https://github.com/dnshariprasad/android-gallery) 
+
 > Storage
 
 * [Shared Preferences](https://github.com/dnshariprasad/android-shared-preferences)
