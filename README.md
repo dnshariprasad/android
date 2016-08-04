@@ -17,6 +17,10 @@
 
 * [Activity Lifecycle](https://github.com/dnshariprasad/android-activity-lifecycle)
 
+* [Click Listeners](https://github.com/dnshariprasad/android-click-listeners)
+
+* [Dialogs](https://github.com/dnshariprasad/android-dialogs-and-pickers)
+
 >Intent
 
 * [Explicit Intents](https://github.com/dnshariprasad/android-explicit-intents)
@@ -33,7 +37,17 @@
 
 * [Internal Storage](http://www.tutorialspoint.com/android/android_internal_storage.htm)
 
-* [Dialogs](https://github.com/dnshariprasad/android-dialogs-and-pickers)
+> Fragment
+
+* [Fragment](https://github.com/dnshariprasad/android-fragment)
+
+* [Fragment Transaction](android-fragment-transaction)
+
+> Network
+
+* [HttpUrlConnection](https://github.com/dnshariprasad/android-HttpUrlConnection)
+
+* [HttpUrlConnection + GSON](https://github.com/dnshariprasad/android-HttpURLConnectionWithGson)
 
 > Others
 
