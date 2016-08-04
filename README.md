@@ -29,8 +29,6 @@
 
 * [Camera](https://github.com/dnshariprasad/android-camera)
 
-* [Camera](https://github.com/dnshariprasad/android-camera)
-
 * [Gallery](https://github.com/dnshariprasad/android-gallery) 
 
 > Storage
