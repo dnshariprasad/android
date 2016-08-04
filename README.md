@@ -29,7 +29,9 @@
 
 * [Database](https://github.com/dnshariprasad/android-database)
 
-* [Internal/External Storage](http://www.tutorialspoint.com/android/android_internal_storage.htm)
+* [External Storage](https://github.com/dnshariprasad/android-external-storage)
+
+* [Internal Storage](http://www.tutorialspoint.com/android/android_internal_storage.htm)
 
 > Others
 
