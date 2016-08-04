@@ -33,6 +33,8 @@
 
 * [Internal Storage](http://www.tutorialspoint.com/android/android_internal_storage.htm)
 
+* [Dialogs](https://github.com/dnshariprasad/android-dialogs-and-pickers)
+
 > Others
 
 * [PubNub + FCM] (https://github.com/dnshariprasad/android-pubnub-fcm)
