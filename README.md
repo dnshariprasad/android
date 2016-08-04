@@ -18,8 +18,8 @@
 * [Activity Lifecycle](https://github.com/dnshariprasad/android-activity-lifecycle)
 
 * [Click Listeners](https://github.com/dnshariprasad/android-click-listeners)
-
-* [Dialogs](https://github.com/dnshariprasad/android-dialogs-and-pickers)
+ 
+* [Dialogs & Pickers](https://github.com/dnshariprasad/android-dialogs-and-pickers)
 
 * [Recyclerview](https://github.com/dnshariprasad/android-recyclerview) 
 
