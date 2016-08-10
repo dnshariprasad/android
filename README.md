@@ -1,15 +1,15 @@
 # Android
 
 ###Glance
-* [Android - Index](https://github.com/dnshariprasad/android-index)
+* [Android - Index](https://github.com/dnshariprasad/android/wiki)
 
-* [Android - Snippets](https://github.com/dnshariprasad/android-snippets)
+* [Android - Snippets](https://github.com/dnshariprasad/android/wiki/Android-Code-Snippets)
 
-* [Android Studio - Shortcuts](https://github.com/dnshariprasad/android-studio-shortcuts) 
+* [Android Studio - Shortcuts](https://github.com/dnshariprasad/android/wiki/Android-Studio-Shortcuts) 
 
-* [Android Studio - Live Templates](https://github.com/dnshariprasad/android-studio-live-templates)
+* [Android Studio - Live Templates](https://github.com/dnshariprasad/android/wiki/Android-Studio---Live-Templates)
 
-* [References](https://github.com/dnshariprasad/android-references) and [More] (https://gist.github.com/dnshariprasad/fe9bf7e1621d6cea342c533d112a0811)
+* [References](https://github.com/dnshariprasad/android/wiki/Android-References) and [More] (https://gist.github.com/dnshariprasad/fe9bf7e1621d6cea342c533d112a0811)
 
 ###Examples
 
