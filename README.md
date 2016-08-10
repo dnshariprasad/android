@@ -55,7 +55,7 @@
 
 * [HttpUrlConnection + GSON](https://github.com/dnshariprasad/android-HttpURLConnectionWithGson)
 
-* [Retrofit ip-api.com](https://github.com/dnshariprasad/android-retrofit-ip-api)
+* [Retrofit - ip-api.com](https://github.com/dnshariprasad/android-retrofit-ip-api)
 
 * [Retrofit](https://github.com/dnshariprasad/android-retrofit)
 
