@@ -81,7 +81,10 @@
 
 * [PubNub + FCM] (https://github.com/dnshariprasad/android-pubnub-fcm)
 
-* [Facebook] (https://github.com/dnshariprasad/android-facebook-login) 
+* [Facebook] (https://github.com/dnshariprasad/android-facebook-login)
+
+* [Twitter](https://github.com/dnshariprasad/android-twitter-login) 
+
  
 
 
