@@ -79,11 +79,15 @@
 
 > Others
 
-* [PubNub + FCM] (https://github.com/dnshariprasad/android-pubnub-fcm)
+* [Google+] ()
 
 * [Facebook] (https://github.com/dnshariprasad/android-facebook-login)
 
 * [Twitter](https://github.com/dnshariprasad/android-twitter-login) 
+
+* [PubNub + FCM] (https://github.com/dnshariprasad/android-pubnub-fcm)
+ 
+
 
  
 
