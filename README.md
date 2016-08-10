@@ -77,7 +77,7 @@
 
 * [Bound Service] ()
 
-> Others
+> API's
 
 * [Google+] ()
 
