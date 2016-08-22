@@ -85,9 +85,10 @@
 
 * [Twitter](https://github.com/dnshariprasad/android-twitter-login) 
 
+* [Twitter Fabric Digits](https://github.com/dnshariprasad/android-twitter-fabric-digits) 
+
 * [PubNub + FCM] (https://github.com/dnshariprasad/android-pubnub-fcm)
 
-* [Twitter Fabric Digits](https://github.com/dnshariprasad/android-twitter-fabric-digits) 
  
 
 
