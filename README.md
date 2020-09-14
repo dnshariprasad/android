@@ -1,6 +1,6 @@
 # Android
 
-###Glance
+### Glance
 * [Android - Index](https://github.com/dnshariprasad/android/wiki)
 
 * [Android - Snippets](https://github.com/dnshariprasad/android/wiki/Android-Code-Snippets)
@@ -11,7 +11,7 @@
 
 * [References](https://github.com/dnshariprasad/android/wiki/Android-References) 
 
-###Examples
+### Examples
 
 >Activity
 
