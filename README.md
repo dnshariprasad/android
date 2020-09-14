@@ -9,7 +9,7 @@
 
 * [Android Studio - Live Templates](https://github.com/dnshariprasad/android/wiki/Android-Studio---Live-Templates)
 
-* [References](https://github.com/dnshariprasad/android/wiki/Android-References) and [More] (https://gist.github.com/dnshariprasad/fe9bf7e1621d6cea342c533d112a0811)
+* [References](https://github.com/dnshariprasad/android/wiki/Android-References) 
 
 ###Examples
 
