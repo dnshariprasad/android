@@ -77,6 +77,23 @@
 
 * [Bound Service] ()
 
+> Jetpack
+
+  * AndroidX
+  * Room
+  * ViewModel
+  * LiveData etc.,
+
+> Architectural Pattern
+  
+  * MVVM
+  * MVP
+
+> Dependency Injection
+
+  * Dagger
+  * Hilt
+
 > API's
 
 * [Google+] (https://github.com/dnshariprasad/android-google-signIn)
