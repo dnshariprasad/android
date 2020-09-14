@@ -73,9 +73,9 @@
 
 * [Unbound Service](https://github.com/dnshariprasad/android-unbound-service)
 
-* [Intent Service]()
+* Intent Service
 
-* [Bound Service] ()
+* Bound Service
 
 > Jetpack
 
