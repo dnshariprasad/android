@@ -51,7 +51,9 @@
 
 > Network
 
-* [AsyncTask] (https://github.com/dnshariprasad/android-asynctask-ip-api) and [HttpUrlConnection](https://github.com/dnshariprasad/android-HttpUrlConnection)
+* [AsyncTask] (https://github.com/dnshariprasad/android-asynctask-ip-api) 
+
+* [HttpUrlConnection](https://github.com/dnshariprasad/android-HttpUrlConnection)
 
 * [HttpUrlConnection + GSON](https://github.com/dnshariprasad/android-HttpURLConnectionWithGson)
 
@@ -79,20 +81,20 @@
 
 > Jetpack
 
-  * AndroidX
-  * Room
-  * ViewModel
-  * LiveData etc.,
+* AndroidX
+* Room
+* ViewModel
+* LiveData etc.,
 
 > Architectural Pattern
   
-  * MVVM
-  * MVP
+* MVVM
+* MVP
 
 > Dependency Injection
 
-  * Dagger
-  * Hilt
+* Dagger
+* Hilt
 
 > API's
 
