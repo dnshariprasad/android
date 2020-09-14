@@ -67,7 +67,7 @@
 
 * [Register Programmatically](https://github.com/dnshariprasad/Android-broadcast-receiver-register-programmatically)
 
-* [App to App] (https://github.com/dnshariprasad/android-broadcast-app-to-app)
+* [App to App](https://github.com/dnshariprasad/android-broadcast-app-to-app)
 
 * [Custom](https://github.com/dnshariprasad/Android-Custom-Broadcast-Receiver) 
 
