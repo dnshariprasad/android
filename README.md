@@ -82,18 +82,23 @@
 > Jetpack
 
 * AndroidX
+
 * Room
+
 * ViewModel
+
 * LiveData etc.,
 
 > Architectural Pattern
   
 * MVVM
+
 * MVP
 
 > Dependency Injection
 
 * Dagger
+
 * Hilt
 
 > API's
