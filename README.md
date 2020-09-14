@@ -51,7 +51,7 @@
 
 > Network
 
-* [AsyncTask] (https://github.com/dnshariprasad/android-asynctask-ip-api) 
+* [AsyncTask](https://github.com/dnshariprasad/android-asynctask-ip-api) 
 
 * [HttpUrlConnection](https://github.com/dnshariprasad/android-HttpUrlConnection)
 
